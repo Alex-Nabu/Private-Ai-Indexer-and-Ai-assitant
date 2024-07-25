@@ -1,0 +1,1 @@
+Fully Offline Private AI model, can index and search your data from text training. 
